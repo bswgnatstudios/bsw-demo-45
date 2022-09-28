@@ -22,7 +22,6 @@
     "axios": "^0.27.2",
     "react": "18.1.0",
     "react-hook-form": "^7.36.1",
-    "react-native": "0.70.1",
     "react-native-gesture-handler": "^2.6.1",
     "react-native-internet-connection-alert": "^0.1.9",
     "react-native-orientation-locker": "^1.5.0",
